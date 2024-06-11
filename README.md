@@ -1,11 +1,11 @@
 <h1 align="center">Hola, Soy Cristian Sebastian Galvan</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas de Información y aspirante a Desarrollador Full Stack</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas de Información y Desarrollador Full Stack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:tu_correo@example.com">
+  <a href="mailto:cristianse.galvan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -57,7 +57,7 @@
 
 ### 📫 Contacto
 
-- **Correo:** [tu_correo@example.com](mailto:tu_correo@example.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **Correo:** [tu_correo@example.com](mailto:cristianse.galvan@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/)
 
 
