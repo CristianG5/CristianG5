@@ -45,19 +45,20 @@
 
 ### 🌟 Proyectos Destacados
 
-<a href="https://github.com/CristianG5/PI-HENRY.git">
-  <img align="center" src="https://github.com/CristianG5/PI-HENRY.git" />
+<a href="https://github.com/CristianG5/PI-HENRY">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianG5&repo=PI-HENRY&theme=radical" />
 </a>
 
-<a href="https://github.com/tu-usuario/proyecto-ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-ecommerce&theme=radical" />
+<a href="https://github.com/jerickgm89/ecommerce_backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerickgm89&repo=ecommerce_backend&theme=radical" />
 </a>
+
 
 ---
 
 ### 📫 Contacto
 
-- **Correo:** [tu_correo@example.com](mailto:cristianse.galvan@gmail.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/)
+- **Correo:** [cristianse.galvan@gmail.com](mailto:cristianse.galvan@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/](https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/)
 
 
