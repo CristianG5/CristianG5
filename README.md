@@ -59,6 +59,6 @@
 ### 📫 Contacto
 
 - **Correo:** [cristianse.galvan@gmail.com](mailto:cristianse.galvan@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/](https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/)
+- **LinkedIn:** [https://www.linkedin.com/in/cristian-sebastian-galvan-7766a6136/](https://www.linkedin.com/in/cristian-sebastian-galvan-7766a6136/)
 
 
