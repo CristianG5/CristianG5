@@ -45,7 +45,7 @@
 
 ### 🌟 Proyectos Destacados
 
-<a href="https://github.com/CristianG5/PI-HENRY">
+<a href="https://github.com/CristianG5/PI-DRIVERS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianG5&repo=PI-HENRY&theme=radical" />
 </a>
 
