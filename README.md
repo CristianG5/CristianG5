@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingeniería en Sistemas de Información y Desarrollador Full Stack</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-sebastian-galv%C3%A1n-7766a6136/">
+  <a href="https://www.linkedin.com/in/cristian-sebastian-galvan-7766a6136/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:cristianse.galvan@gmail.com">
