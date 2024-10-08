@@ -46,7 +46,7 @@
 ### 🌟 Proyectos Destacados
 
 <a href="https://github.com/CristianG5/PI-DRIVERS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianG5&repo=PI-DRIVERS&theme=radical&description=Web de gestion de conductores" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianG5&repo=PI-DRIVERS&theme=radical&description=Este%20es%20un%20proyecto%20de%20gestión%20de%20conductores" />
 </a>
 
 <a href="https://github.com/jerickgm89/ecommerce_backend">
